@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f30200f1a99de584caf90e1c9c5a3b75, type: 3}
+  m_Name: MalayalamLetterMap
+  m_EditorClassIdentifier: 
+  m_MalayalamLetters:
+  - LetterSound: 11
+    LetterMesh: {fileID: 6390361515523537690, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 16
+    LetterMesh: {fileID: -1880118333901318282, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 18
+    LetterMesh: {fileID: -3239353870259759229, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 38
+    LetterMesh: {fileID: -7503883642244498813, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 25
+    LetterMesh: {fileID: 7929335009232327945, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 37
+    LetterMesh: {fileID: -2503403095918187493, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 46
+    LetterMesh: {fileID: -6224987456952305454, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 45
+    LetterMesh: {fileID: -6315566122301176423, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 39
+    LetterMesh: {fileID: 8559614101418479152, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 21
+    LetterMesh: {fileID: -5970230853224426315, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 35
+    LetterMesh: {fileID: -4062250204004965973, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 31
+    LetterMesh: {fileID: -4324297042449055459, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 13
+    LetterMesh: {fileID: 7128686711232860279, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 15
+    LetterMesh: {fileID: 5419454523813478218, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 24
+    LetterMesh: {fileID: 6880173513438030723, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 26
+    LetterMesh: {fileID: -1170324301116628280, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 27
+    LetterMesh: {fileID: -4595891912428051515, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 35
+    LetterMesh: {fileID: -4062250204004965973, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 30
+    LetterMesh: {fileID: 6940261819018817614, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 33
+    LetterMesh: {fileID: 4798894226560382342, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 32
+    LetterMesh: {fileID: -2120416085165212584, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 22
+    LetterMesh: {fileID: 22966305316500724, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 29
+    LetterMesh: {fileID: -2788992002673202112, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 36
+    LetterMesh: {fileID: 3849668309993501116, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 19
+    LetterMesh: {fileID: 3908612553154613387, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 34
+    LetterMesh: {fileID: -8024553409918675184, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 31
+    LetterMesh: {fileID: -4324297042449055459, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 44
+    LetterMesh: {fileID: 3184567942499822858, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 45
+    LetterMesh: {fileID: -6315566122301176423, guid: b0877801774531740b8e0492318383b4, type: 3}
+  - LetterSound: 41
+    LetterMesh: {fileID: -621817074308054638, guid: b0877801774531740b8e0492318383b4, type: 3}
